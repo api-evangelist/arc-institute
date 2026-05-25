@@ -1,0 +1,2 @@
+# arc-institute
+Arc Institute — Palo Alto nonprofit biomedical research institute developing AI foundation models for biology (Evo, Evo 2, STATE, Stack, Arc Virtual Cell Atlas). Co-founded by Silvana Konermann, Patrick Hsu, and Patrick Collison. Models are open source under Apache 2.0 on [GitHub](https://github.com/arcinstitute) and [Hugging Face](https://huggingface.co/arcinstitute); Evo 2 inference is hosted by NVIDIA at [build.nvidia.com/arc/evo2-40b](https://build.nvidia.com/arc/evo2-40b).

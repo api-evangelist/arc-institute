@@ -1,0 +1,86 @@
+aid: arc-institute
+name: Arc Institute
+description: >-
+  Arc Institute is an independent nonprofit biomedical research organization
+  headquartered in Palo Alto, California, co-founded in 2021 by Silvana
+  Konermann (Executive Director), Patrick Hsu (Core Investigator), and Stripe
+  co-founder Patrick Collison. With 300+ staff ("Arconauts") across 9 core
+  laboratories and 5 technology centers, Arc develops AI foundation models
+  for biology that span DNA, RNA, proteins, and single cells. Its flagship
+  releases include Evo (Science, 2024) and Evo 2 (Nature, 2026) — DNA
+  foundation models trained on trillions of nucleotides at single-nucleotide
+  resolution with up to a 1-megabase context; STATE and Stack single-cell
+  foundation models for cellular perturbation and in-context learning; the
+  Arc Virtual Cell Atlas; the SRAgent LLM agents for bioinformatics; and the
+  BINSEQ binary sequencing format. Models are released under Apache 2.0 on
+  GitHub and Hugging Face, with hosted inference for Evo 2 available through
+  NVIDIA BioNeMo and the NVIDIA build.nvidia.com API. Arc is funded by
+  philanthropic donations from Patrick and John Collison, Vitalik Buterin,
+  the Ron Conway family, Dustin Moskovitz, Daniel Gross, Elad Gil, and other
+  technology benefactors; it does not sell APIs, SaaS, or models commercially.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Biomedical Research
+  - Computational Biology
+  - Genomics
+  - DNA Foundation Models
+  - Foundation Models
+  - Single Cell
+  - Protein Engineering
+  - Evo
+  - Evo 2
+  - Bioinformatics
+  - Nonprofit
+  - Open Source
+  - Machine Learning
+  - AI for Science
+url: https://raw.githubusercontent.com/api-evangelist/arc-institute/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://arcinstitute.org
+  - type: About
+    url: https://arcinstitute.org/about
+  - type: Programs
+    url: https://arcinstitute.org/programs
+  - type: Tools
+    url: https://arcinstitute.org/tools
+  - type: Models
+    url: https://arcinstitute.org/model
+  - type: News
+    url: https://arcinstitute.org/news
+  - type: Publications
+    url: https://arcinstitute.org/publications
+  - type: Careers
+    url: https://arcinstitute.org/jobs
+  - type: GitHubOrganization
+    url: https://github.com/arcinstitute
+  - type: HuggingFace
+    url: https://huggingface.co/arcinstitute
+  - type: Evo
+    url: https://github.com/evo-design/evo
+  - type: Evo2
+    url: https://github.com/arcinstitute/evo2
+  - type: HostedAPI
+    url: https://build.nvidia.com/arc/evo2-40b
+  - type: BioNeMo
+    url: https://docs.nvidia.com/bionemo-framework/latest/models/evo2.html
+  - type: Paper
+    url: https://doi.org/10.1038/s41586-026-10176-5
+  - type: Paper
+    url: https://www.science.org/doi/10.1126/science.ado9336
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/arc-institute
+  - type: Twitter
+    url: https://twitter.com/arcinstitute
+  - type: YouTube
+    url: https://www.youtube.com/@arcinstitute
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
