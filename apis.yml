@@ -43,6 +43,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/arc-institute-domain-security.yml
   - type: Website
     url: https://arcinstitute.org
   - type: About
@@ -81,6 +83,8 @@ common:
     url: https://twitter.com/arcinstitute
   - type: YouTube
     url: https://www.youtube.com/@arcinstitute
+  - type: Blog
+    url: https://arcinstitute.org/news
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
