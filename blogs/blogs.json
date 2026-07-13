@@ -1,0 +1,18 @@
+{
+  "repo": "arc-institute",
+  "feeds": [
+    {
+      "source": "https://arcinstitute.org/news",
+      "feed_url": "https://arcinstitute.org/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.youtube.com/@arcinstitute",
+      "error": "HTTPError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 15
+}
