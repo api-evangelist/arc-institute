@@ -56,8 +56,8 @@ tags:
   - Evo 2
   - Bioinformatics
   - Non-Profit
-  - Open-Source
-  - Machine-Learning
+  - Open Source
+  - Machine Learning
   - AI for Science
 tags_raw:
   - Biomedical Research
@@ -74,6 +74,8 @@ tags_raw:
   - Open Source
   - Machine Learning
   - AI for Science
+  - Open-Source
+  - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/arc-institute/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
