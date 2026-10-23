@@ -62,6 +62,41 @@ edges:
     detected: '2026-10-20'
   detected_by: sweep-agent-skills.py
   first_seen: '2026-10-20'
+- partner_name: Hugging Face (hugging-face-hub)
+  partner: hugging-face
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: hugging-face-hub
+  evidence: https://huggingface.co/arcinstitute
+  mirror_of: hugging-face/integrations/hugging-face-integration-edges.yml
+  apps:
+  - arcinstitute/State-Parse-Filtered
+  - arcinstitute/opengenome2
+  - arcinstitute/PIE_sources
+  - arcinstitute/State-Tahoe-Filtered
+  - arcinstitute/SE-167M-Human
+  - arcinstitute/PIE_replogle_nadig_essential
+  - arcinstitute/PIE_tahoe100m
+  - arcinstitute/PIE_splits
+  - arcinstitute/evo2_7b
+  - arcinstitute/evo2_1b_base
+  - arcinstitute/PIE_replogle_xdataset
+  - arcinstitute/SE-600M
+  - arcinstitute/evo2_40b
+  - arcinstitute/evo2_20b
+  - arcinstitute/evo2_7b_base
+  - arcinstitute/evo2_40b_base
+  - arcinstitute
+  listing_count: 3
+  detected: '2026-10-23'
+  detected_by: mirror-platform-listings.py
+  category: Hugging Face Hub datasets
+  badges:
+  - Verified publisher (Hugging Face verified organisation)
 generated: '2026-10-20'
 method: searched
 source:
@@ -73,3 +108,4 @@ checked:
 - https://officialskills.sh/sitemap.xml
 - https://skillsmp.com/sitemap.xml
 - https://www.skills.sh/sitemap.xml
+- hugging-face/integrations/hugging-face-integration-edges.yml
